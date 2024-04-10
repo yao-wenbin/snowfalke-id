@@ -1,2 +1,2 @@
 org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
-  com.entropyvalley.snowflake.autoconfiguration.IdentifierGeneratorAutoConfiguration
+  io.github.yaowenbin.snowflake.starter.IdentifierGeneratorAutoConfiguration

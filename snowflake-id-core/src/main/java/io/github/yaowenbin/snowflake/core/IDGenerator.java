@@ -1,4 +1,4 @@
-package com.entropyvalley.snowflake.core;
+package io.github.yaowenbin.snowflake.core;
 
 public class IDGenerator {
 

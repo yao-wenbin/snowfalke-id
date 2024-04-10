@@ -1,4 +1,4 @@
-package com.entropyvalley.snowflake.autoconfiguration;
+package io.github.yaowenbin.snowflake.starter;
 
 import com.baomidou.mybatisplus.core.incrementer.IdentifierGenerator;
 import com.entropyvalley.snowflake.core.IDGenerator;
