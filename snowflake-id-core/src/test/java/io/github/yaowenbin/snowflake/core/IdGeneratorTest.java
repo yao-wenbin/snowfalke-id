@@ -1,6 +1,5 @@
 package io.github.yaowenbin.snowflake.core;
 
-import io.github.yaowenbin.snowflake.core.IDGenerator;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
